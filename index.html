@@ -1,0 +1,531 @@
+<!DOCTYPE html>
+<html lang="cs">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>PTACI NEJSOU SKUTECNI - Pravda, kterou vam taji</title>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/reveal.js@4.6.1/dist/reveal.css">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/reveal.js@4.6.1/dist/theme/black.css">
+    <link href="https://fonts.googleapis.com/css2?family=Special+Elite&family=Oswald:wght@400;700&family=Source+Sans+Pro:wght@400;700&display=swap" rel="stylesheet">
+    <style>
+        :root {
+            --r-background-color: #0a0a0a;
+            --r-heading-color: #e63946;
+            --r-main-color: #f1faee;
+            --r-link-color: #e63946;
+        }
+
+        .reveal {
+            font-family: 'Source Sans Pro', sans-serif;
+        }
+
+        .reveal h1, .reveal h2, .reveal h3 {
+            font-family: 'Oswald', sans-serif;
+            text-transform: uppercase;
+            letter-spacing: 3px;
+        }
+
+        .reveal h1 {
+            font-size: 2.8em;
+            color: #e63946;
+            text-shadow: 0 0 20px rgba(230, 57, 70, 0.5);
+        }
+
+        .reveal h2 {
+            font-size: 2em;
+            color: #e63946;
+            text-shadow: 0 0 15px rgba(230, 57, 70, 0.4);
+        }
+
+        .reveal h3 {
+            font-size: 1.4em;
+            color: #a8dadc;
+        }
+
+        .reveal .subtitle {
+            font-family: 'Special Elite', cursive;
+            color: #a8dadc;
+            font-size: 1.2em;
+            margin-top: 10px;
+        }
+
+        .stamp {
+            border: 4px solid #e63946;
+            color: #e63946;
+            padding: 10px 25px;
+            display: inline-block;
+            transform: rotate(-5deg);
+            font-family: 'Oswald', sans-serif;
+            font-size: 1.8em;
+            text-transform: uppercase;
+            letter-spacing: 5px;
+            margin-top: 20px;
+            animation: pulse 2s infinite;
+        }
+
+        @keyframes pulse {
+            0%, 100% { opacity: 1; box-shadow: 0 0 10px rgba(230, 57, 70, 0.3); }
+            50% { opacity: 0.8; box-shadow: 0 0 25px rgba(230, 57, 70, 0.6); }
+        }
+
+        .evidence-photo {
+            position: relative;
+            display: inline-block;
+            margin: 10px;
+            border: 3px solid #333;
+            box-shadow: 0 0 15px rgba(0,0,0,0.5);
+        }
+
+        .evidence-photo img {
+            filter: blur(2px) contrast(1.3) saturate(0.7);
+            width: 280px;
+            height: 200px;
+            object-fit: cover;
+            display: block;
+        }
+
+        .evidence-photo .label {
+            position: absolute;
+            bottom: 0;
+            left: 0;
+            right: 0;
+            background: rgba(230, 57, 70, 0.85);
+            color: white;
+            font-family: 'Special Elite', cursive;
+            font-size: 0.6em;
+            padding: 5px;
+            text-align: center;
+        }
+
+        .evidence-photo .classified {
+            position: absolute;
+            top: 5px;
+            right: 5px;
+            background: #e63946;
+            color: white;
+            font-family: 'Oswald', sans-serif;
+            font-size: 0.45em;
+            padding: 2px 8px;
+            transform: rotate(3deg);
+        }
+
+        .quote-box {
+            background: linear-gradient(135deg, #1a1a2e, #16213e);
+            border-left: 4px solid #e63946;
+            padding: 20px 25px;
+            margin: 15px 0;
+            text-align: left;
+            font-size: 0.75em;
+            border-radius: 0 8px 8px 0;
+        }
+
+        .quote-box .author {
+            color: #a8dadc;
+            font-family: 'Special Elite', cursive;
+            margin-top: 10px;
+            font-size: 0.85em;
+        }
+
+        .quote-box .source {
+            color: #666;
+            font-size: 0.7em;
+            font-style: italic;
+        }
+
+        .fact-box {
+            background: rgba(230, 57, 70, 0.1);
+            border: 1px solid #e63946;
+            padding: 15px;
+            margin: 10px 0;
+            border-radius: 5px;
+            font-size: 0.8em;
+        }
+
+        .timeline-item {
+            display: flex;
+            align-items: center;
+            margin: 12px 0;
+            text-align: left;
+            font-size: 0.75em;
+        }
+
+        .timeline-year {
+            background: #e63946;
+            color: white;
+            padding: 5px 15px;
+            font-family: 'Oswald', sans-serif;
+            font-size: 1.1em;
+            min-width: 80px;
+            text-align: center;
+            margin-right: 15px;
+            flex-shrink: 0;
+        }
+
+        .section-intro {
+            background: rgba(168, 218, 220, 0.1);
+            border: 1px dashed #a8dadc;
+            padding: 12px 20px;
+            border-radius: 8px;
+            font-family: 'Special Elite', cursive;
+            color: #a8dadc;
+            font-size: 0.7em;
+            margin-bottom: 20px;
+        }
+
+        .section-summary {
+            background: rgba(230, 57, 70, 0.1);
+            border: 1px dashed #e63946;
+            padding: 12px 20px;
+            border-radius: 8px;
+            font-size: 0.65em;
+            margin-top: 20px;
+            color: #f1faee;
+        }
+
+        .section-summary strong {
+            color: #e63946;
+        }
+
+        .audience-question {
+            background: linear-gradient(135deg, #e63946, #c1121f);
+            color: white;
+            padding: 15px 25px;
+            border-radius: 10px;
+            font-family: 'Special Elite', cursive;
+            font-size: 0.9em;
+            margin: 15px auto;
+            max-width: 80%;
+            box-shadow: 0 5px 15px rgba(230, 57, 70, 0.3);
+        }
+
+        .speaker-tag {
+            position: absolute;
+            top: 15px;
+            right: 20px;
+            background: rgba(230, 57, 70, 0.8);
+            color: white;
+            padding: 5px 15px;
+            font-family: 'Oswald', sans-serif;
+            font-size: 0.5em;
+            letter-spacing: 2px;
+            z-index: 10;
+        }
+
+        .stat-number {
+            font-family: 'Oswald', sans-serif;
+            font-size: 2.5em;
+            color: #e63946;
+            display: block;
+            line-height: 1;
+        }
+
+        .stat-label {
+            font-size: 0.6em;
+            color: #a8dadc;
+        }
+
+        .stats-row {
+            display: flex;
+            justify-content: center;
+            gap: 40px;
+            margin: 20px 0;
+        }
+
+        .stats-row > div {
+            text-align: center;
+        }
+
+        .warning-banner {
+            background: repeating-linear-gradient(
+                45deg,
+                #e63946,
+                #e63946 10px,
+                #c1121f 10px,
+                #c1121f 20px
+            );
+            color: white;
+            padding: 8px;
+            font-family: 'Oswald', sans-serif;
+            letter-spacing: 5px;
+            font-size: 0.7em;
+            margin-bottom: 15px;
+        }
+
+        .action-list {
+            text-align: left;
+            list-style: none;
+            padding: 0;
+        }
+
+        .action-list li {
+            padding: 8px 0;
+            border-bottom: 1px solid #333;
+            font-size: 0.75em;
+        }
+
+        .action-list li::before {
+            content: ">> ";
+            color: #e63946;
+            font-family: 'Oswald', sans-serif;
+        }
+
+        .grid-2 {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 20px;
+            align-items: start;
+        }
+
+        .fragment.highlight-red.visible {
+            color: #e63946;
+        }
+
+        .reveal .slides section {
+            padding-top: 30px;
+        }
+
+        .scan-line {
+            position: fixed;
+            top: 0;
+            left: 0;
+            right: 0;
+            bottom: 0;
+            background: repeating-linear-gradient(
+                0deg,
+                transparent,
+                transparent 2px,
+                rgba(0, 0, 0, 0.03) 2px,
+                rgba(0, 0, 0, 0.03) 4px
+            );
+            pointer-events: none;
+            z-index: 1000;
+        }
+    </style>
+</head>
+<body>
+    <div class="scan-line"></div>
+    <div class="reveal">
+        <div class="slides">
+
+            <!-- SLIDE 1: UVOD - Speaker 1 -->
+            <section data-background-color="#0a0a0a">
+                <div class="speaker-tag">MLUVCI 1</div>
+                <div class="warning-banner">ODTAJNENO // DECLASSIFIED</div>
+                <h1>PTACI NEJSOU<br>SKUTECNI</h1>
+                <p class="subtitle">"Pravda, kterou vam svetove vlady taji od roku 1959"</p>
+                <div class="stamp">ODTAJNENO</div>
+
+                <div class="section-intro" style="margin-top: 30px;">
+                    Dnes vam odhalime to, co vlady sveta skryvaji vice nez 60 let:<br>
+                    <strong>historii, dukazy, svedectvi odborniku</strong> a co s tim muzete delat VY.
+                </div>
+
+                <div class="audience-question">
+                    Kolik z vas si dnes vsimlo ptaka na drate elektrickeho vedeni?<br>
+                    <small>Zamyslete se... proc tam vlastne sedi?</small>
+                </div>
+
+                <div class="section-summary">
+                    <strong>Shrnu:</strong> Dnes vam ukazeme historii programu nahrazeni ptaku, fotograficke dukazy,
+                    vyjadreni odborniku a co muzete udelat pro odhaleni pravdy.
+                </div>
+            </section>
+
+            <!-- SLIDE 2: HISTORIE - Speaker 2 -->
+            <section data-background-color="#0a0a0a">
+                <div class="speaker-tag">MLUVCI 2</div>
+                <h2>TAJNY PROGRAM<br>"OPERACE KOLIBRIK"</h2>
+
+                <div class="section-intro">
+                    Ted vam ukazeme historicke pozadi: jak a kdy vlady postupne nahradily vsechny ptaky sledovacimi drony.
+                </div>
+
+                <div class="timeline-item fragment">
+                    <div class="timeline-year">1947</div>
+                    <div>CIA zaklada tajnou divizi pro biologicky dozor. Prvni studie nahrazeni zvirat.</div>
+                </div>
+                <div class="timeline-item fragment">
+                    <div class="timeline-year">1959</div>
+                    <div>Zahajena "Operace Kolibrik" - pilotni projekt na Floride. 12 000 vrabcu nahrazeno prototypy.</div>
+                </div>
+                <div class="timeline-item fragment">
+                    <div class="timeline-year">1971</div>
+                    <div>Prezident Nixon tajne schvaluje rozpocet $4.2 miliardy na masovou vymenu ptaku v Severni Americe.</div>
+                </div>
+                <div class="timeline-item fragment">
+                    <div class="timeline-year">1986</div>
+                    <div>Program se rozsiril do Evropy. "Cernobyl" poslouzil jako zakryvaci operace pro eliminaci ptaku ve vychodni Evrope.</div>
+                </div>
+                <div class="timeline-item fragment">
+                    <div class="timeline-year">2001</div>
+                    <div>Posledni zijici ptaci vyhubeni. 100% populace nahrazena drony 7. generace s HD kamerami.</div>
+                </div>
+
+                <div class="section-summary fragment">
+                    <strong>Takze:</strong> Prave jsme prosli 54 let tajne operace - od prvnich experimentu az po
+                    uplnou nahradu. Kazdy "ptak," ktereho vidite, je vysledek desitileti vladniho vyvoje.
+                </div>
+            </section>
+
+            <!-- SLIDE 3: DUKAZY - Speaker 3 -->
+            <section data-background-color="#0a0a0a">
+                <div class="speaker-tag">MLUVCI 3</div>
+                <h2>FOTOGRAFICKE DUKAZY</h2>
+
+                <div class="section-intro">
+                    Nyni vam predlozime neoddiskutovatelne vizualni dukazy, ktere dokazuji, ze ptaci jsou ve skutecnosti drony.
+                </div>
+
+                <div class="grid-2">
+                    <div>
+                        <div class="evidence-photo fragment">
+                            <img src="https://images.unsplash.com/photo-1444464666168-49d633b86797?w=400&q=30" alt="Dukaz 1">
+                            <div class="classified">UTAJENO</div>
+                            <div class="label">Zachycen pri "nabijeni" na drate - 2019</div>
+                        </div>
+                        <div class="evidence-photo fragment">
+                            <img src="https://images.unsplash.com/photo-1552728089-57bdde30beb3?w=400&q=30" alt="Dukaz 2">
+                            <div class="classified">DUKAZ #47</div>
+                            <div class="label">Papousek - model X7 s pokrocilym AI</div>
+                        </div>
+                    </div>
+                    <div>
+                        <div class="evidence-photo fragment">
+                            <img src="https://images.unsplash.com/photo-1480044965905-02098d419e96?w=400&q=30" alt="Dukaz 3">
+                            <div class="classified">LEAK</div>
+                            <div class="label">Hejno dronu pri synchronizaci dat - 2021</div>
+                        </div>
+
+                        <div class="fact-box fragment">
+                            <strong style="color: #e63946;">ZAMYSLETE SE:</strong><br>
+                            Videli jste nekdy mlado holuba?<br>
+                            Proc ptaci sedi na elektrickych dratach? <strong>Nabiji se.</strong><br>
+                            Proc ptaci "odletaji na jih"? <strong>Sezonni update firmware.</strong>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="audience-question fragment">
+                    Ruku na srdce - videl nekdo z vas nekdy mrtveho ptaka na ulici?<br>
+                    <small>Protoze pokud ne... kde jsou ta "tela"?</small>
+                </div>
+
+                <div class="section-summary fragment">
+                    <strong>Co jsme videli:</strong> Fotografie dokazuji nabijeni na dratovem vedeni,
+                    synchronizaci dat v hejnech a neexistenci ptacich mldat. To neni nahoda - to je system.
+                </div>
+            </section>
+
+            <!-- SLIDE 4: ODBORNICI - Speaker 4 -->
+            <section data-background-color="#0a0a0a">
+                <div class="speaker-tag">MLUVCI 4</div>
+                <h2>CO RIKAJI ODBORNICI</h2>
+
+                <div class="section-intro">
+                    Nyni se podivame na vyjadreni predniho svetoveho odborniku, kteri potvrzuji nase zjisteni.
+                </div>
+
+                <div class="quote-box fragment">
+                    <em>"Pracoval jsem 15 let jako ornitolog a az po analyze tisicu vzorku perich pod elektronovym mikroskopem
+                    jsem zjistil, ze kazde pero obsahuje mikroskopicke obvody. Byl jsem smazan z akademicke obce do 24 hodin."</em>
+                    <div class="author">- Dr. Harold Finchworth, PhD</div>
+                    <div class="source">r/BirdsArentReal, overeny odbornik, 47.2k upvotu</div>
+                </div>
+
+                <div class="quote-box fragment">
+                    <em>"Jako byvaly technik NSA mohu potvrdit, ze kazdy holub v mestske zone je vybaven 4K kamerou
+                    a GPS sledovacem. Data jsou v realnem case preposllana do centra v Langley."</em>
+                    <div class="author">- u/WhistleBlower_X42</div>
+                    <div class="source">r/conspiracy, AMA overeny, 2x zlato, 31.8k upvotu</div>
+                </div>
+
+                <div class="quote-box fragment">
+                    <em>"Rozebral jsem 'ptaka' ktereho jsem nasel na zahrade. Uvnitr namisto organu byl hexagonalni
+                    procesor, lithiova baterie a WiFi modul. Nez jsem stihl zverejnit fotky, mi nekdo vloupal do bytu."</em>
+                    <div class="author">- u/TruthSeeker_CZ_89</div>
+                    <div class="source">r/czech, gilded post, 12.4k upvotu</div>
+                </div>
+
+                <div class="stats-row fragment">
+                    <div>
+                        <span class="stat-number">94%</span>
+                        <span class="stat-label">ornithologu odmitlo<br>komentovat nase zjisteni</span>
+                    </div>
+                    <div>
+                        <span class="stat-number">340+</span>
+                        <span class="stat-label">smazanych prispevku<br>o ptacich dronech</span>
+                    </div>
+                    <div>
+                        <span class="stat-number">0</span>
+                        <span class="stat-label">dukazu, ze ptaci<br>JSOU skutecni</span>
+                    </div>
+                </div>
+
+                <div class="section-summary fragment">
+                    <strong>Shrnu:</strong> Nezavisli odbornici potvrzuji existenci mikro-obvodu v perich,
+                    sledovaci technologie v ptacich a systematicke umlcovani tech, kteri promluvi.
+                </div>
+            </section>
+
+            <!-- SLIDE 5: ZAVER / VYZVA K AKCI - Speaker 5 -->
+            <section data-background-color="#0a0a0a">
+                <div class="speaker-tag">MLUVCI 5</div>
+                <h2>CO MUZETE UDELAT VY?</h2>
+
+                <div class="section-intro">
+                    Na zaver shrneme vsechna fakta a ukazeme vam, jak se muzete aktivne zapojit do odhalovani pravdy.
+                </div>
+
+                <div class="grid-2">
+                    <div>
+                        <h3 style="font-size: 1em;">CO JSME VAS DNES NAUCILI:</h3>
+                        <ul class="action-list">
+                            <li class="fragment">Vlady od roku 1959 systematicky nahrazovaly ptaky drony</li>
+                            <li class="fragment">Fotograficke dukazy ukazuji nabijeni, synchronizaci a absenci mldat</li>
+                            <li class="fragment">Overeni odbornici potvrzuji mikro-obvody v perich</li>
+                            <li class="fragment">94% ornithologu odmita situaci komentovat</li>
+                        </ul>
+                    </div>
+                    <div>
+                        <h3 style="font-size: 1em;">JAK SE ZAPOJIT:</h3>
+                        <ul class="action-list">
+                            <li class="fragment">Sledujte "ptaky" ve vasem okoli - dokumentujte anomalie</li>
+                            <li class="fragment">Sdllejte informace s blizkymipoznejte pravdu</li>
+                            <li class="fragment">Pripojte se k r/BirdsArentReal - 700 000+ clenu</li>
+                            <li class="fragment">Odmitejte vladni propagandu o "ochrane ptaku"</li>
+                        </ul>
+                    </div>
+                </div>
+
+                <div class="audience-question fragment">
+                    Polozme si otazku: Budete dal ignorovat pravdu, nebo se pridateodhalovani?<br>
+                    <small>Kazdy "ptak" za vasim oknem vas prave ted sleduje.</small>
+                </div>
+
+                <div class="stamp fragment" style="font-size: 1.2em;">PROBUDTE SE</div>
+
+                <div class="section-summary fragment">
+                    <strong>Dekujeme za pozornost.</strong> Dnes jste se dozvedeli o tajne operaci, videli jste dukazy
+                    a slyseliste odborne nazory. Ted je rada na vas. Pravda je tam venku - staci se podivat nahoru.
+                </div>
+            </section>
+
+        </div>
+    </div>
+
+    <script src="https://cdn.jsdelivr.net/npm/reveal.js@4.6.1/dist/reveal.js"></script>
+    <script>
+        Reveal.initialize({
+            hash: true,
+            transition: 'fade',
+            transitionSpeed: 'slow',
+            backgroundTransition: 'fade',
+            controls: true,
+            progress: true,
+            center: true,
+            width: 1280,
+            height: 720
+        });
+    </script>
+</body>
+</html>
