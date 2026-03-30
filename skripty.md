@@ -1,195 +1,195 @@
-# SKRIPTY PRO PREZENTACI: PTACI NEJSOU SKUTECNI
+# SKRIPTY PRO PREZENTACI: PTÁCI NEJSOU SKUTEČNÍ
 
-> **Poznamka:** Toto je satiricka prezentace inspirovana parodickym hnutim "Birds Aren't Real" zalozenim Peterem McIndoe v roce 2017. Vse je vymyslene za ucelem nacviku prezentacnich dovednosti.
+> **Poznámka:** Toto je satirická prezentace inspirovaná parodickým hnutím "Birds Aren't Real" založeným Peterem McIndoe v roce 2017. Vše je vymyšlené za účelem nácviku prezentačních dovedností.
 
-> **Struktura kazdeho slajdu:** UVOD (rekni jim, co jim reknes) -> STAT (rekni jim to) -> ZAVER (rekni jim, co jsi jim rekl)
-
----
-
-## SLAJD 1 - MLUVCI 1: UVOD
-**Cas: cca 1 minuta**
-
-### UVOD (co jim reknu):
-*(Vyjde sebejiste, postavi se na stred, navaze ocni kontakt s publikem, kratka dramaticka pauza)*
-
-"Dobry den vsem. To, co se dnes dozvite, zmeni vas pohled na svet. A mozna vas to i vystrasi. Dnes vam odhalime pravdu o tajnem vladnim programu, ktery trva vic nez 60 let. Ukazeme vam historicke pozadi, predlozime fotograficke dukazy, poslechneme si odborne nazory a rekneme vam, co s tim muzete udelat."
-
-### STAT (rikam jim to):
-*(Gestikulace smerem k publiku, durazna intonace)*
-
-"Ale nejdriv mam jednu otazku. Kolik z vas si dnes rano vsimlo ptaka? Treba na drate vedeni? Na strese? Za oknem?"
-
-*(Pauza, ceka na reakci publika)*
-
-"A zamyslelili jste se nekdy, proc tam ten ptak vlastne sedi? Proc zrovna na elektrickem vedeni? Odpoved je jednodussi a strasidelnejsi, nez byste cekali. Ten ptak neni ptak. Je to sledovaci dron. A dnes vam to dokazeme."
-
-*(Dramaticky ukazuje na slide se stampem "ODTAJNENO")*
-
-### ZAVER (co jsem jim rekl):
-"Takze, abych to shrnul - dnes projdeme ctyrmi klicovymi tematy: historii tajneho programu, fotograficke dukazy, vyjadreni odborniku a co muzete delat vy. Zacneme historii."
-
-*(Preda slovo Mluvcimu 2)*
+> **Struktura každého slajdu:** ÚVOD (řekni jim, co jim řekneš) → STAŤ (řekni jim to) → ZÁVĚR (řekni jim, co jsi jim řekl)
 
 ---
 
-## SLAJD 2 - MLUVCI 2: TAJNY PROGRAM "OPERACE KOLIBRIK"
-**Cas: cca 1 minuta**
+## SLAJD 1 – MLUVČÍ 1: ÚVOD
+**Čas: cca 1 minuta**
 
-### UVOD (co jim reknu):
-*(Pristoupi k prezentaci, vazny vyraz, hlas plny presvedceni)*
+### ÚVOD (co jim řeknu):
+*(Vyjde sebejistě, postaví se na střed, naváže oční kontakt s publikem, krátká dramatická pauza)*
 
-"Dekuji. Ted vam ukazeme, jak to vsechno zacalo. Provedeme vas krok po kroku tajnym vladnim programem, ktery trval pres 50 let a zakonil uplnou eliminaci vsech ptaku na planete."
+"Dobrý den všem. To, co se dnes dozvíte, změní váš pohled na svět. A možná vás to i vystraší. Dnes vám odhalíme pravdu o tajném vládním programu, který trvá víc než 60 let. Ukážeme vám historické pozadí, předložíme fotografické důkazy, poslechneme si odborné názory a řekneme vám, co s tím můžete udělat."
 
-### STAT (rikam jim to):
-*(Ukazuje na casovou osu, postupne odhaluje body)*
+### STAŤ (říkám jim to):
+*(Gestikulace směrem k publiku, důrazná intonace)*
 
-"Vsechno to zacalo v roce 1947, kdy CIA zalozila tajnou divizi pro biologicky dozor. Jejich cil? Najit zpusob, jak vyuzit zvirata pro sledovani obcanu."
+"Ale nejdřív mám jednu otázku. Kolik z vás si dnes ráno všimlo ptáka? Třeba na drátě vedení? Na střeše? Za oknem?"
 
-*(Pauza, zvysi hlas)*
+*(Pauza, čeká na reakci publika)*
 
-"V roce 1959 odstartovala Operace Kolibrik - pilotni projekt na Floride. Dvanact tisic vrabcu bylo odchyceno a nahrazeno prvnimi prototypy. Nikdo si niceho nevsiml."
+"A zamysleli jste se někdy, proč tam ten pták vlastně sedí? Proč zrovna na elektrickém vedení? Odpověď je jednodušší a strašidelnější, než byste čekali. Ten pták není pták. Je to sledovací dron. A dnes vám to dokážeme."
 
-*(Naklonil se k publiku, ztisi hlas)*
+*(Dramaticky ukazuje na slide se štampem "ODTAJNĚNO")*
 
-"V roce 1971 prezident Nixon tajne schvalil rozpocet ctyri celych dve miliardy dolaru na masovou vymenu. A tady to prichazi - rok 1986. Cernobyl. Myslite, ze to byla nehoda? Povedzte mi - kolik ptaku jste videli okolo Cernobylu? Presne. Byla to zakryvaci operace pro eliminaci ptaku ve vychodni Evrope."
+### ZÁVĚR (co jsem jim řekl):
+"Takže, abych to shrnul – dnes projdeme čtyřmi klíčovými tématy: historií tajného programu, fotografické důkazy, vyjádření odborníků a co můžete dělat vy. Začneme historií."
 
-*(Duraz, pomaly hlas)*
-
-"A v roce 2001 byl proces dokoncen. Posledni zijici ptak na planete byl nahrazen dronem sedme generace vybavenym HD kamerou."
-
-### ZAVER (co jsem jim rekl):
-"Takze, prave jsme prosli 54 let tajne operace - od zakladu CIA az po uplnou nahradu vsech ptaku drony. Kazdy ptak, ktereho vidite, je vysledek desitileti vladniho vyvoje. A ted vam kolega ukaze fotograficke dukazy."
-
-*(Preda slovo Mluvcimu 3)*
+*(Předá slovo Mluvčímu 2)*
 
 ---
 
-## SLAJD 3 - MLUVCI 3: FOTOGRAFICKE DUKAZY
-**Cas: cca 1 minuta**
+## SLAJD 2 – MLUVČÍ 2: TAJNÝ PROGRAM "OPERACE KOLIBŘÍK"
+**Čas: cca 1 minuta**
 
-### UVOD (co jim reknu):
-*(Pristoupi, energicky, ukazuje na slide)*
+### ÚVOD (co jim řeknu):
+*(Přistoupí k prezentaci, vážný výraz, hlas plný přesvědčení)*
 
-"Dekuji za historicky kontext. Ale historie je jedna vec - ted vam ukazeme neco, co uvidite na vlastni oci. Predlozime vam tri klicove fotograficke dukazy a polozime vam otazky, na ktere neexistuje jina odpoved."
+"Děkuji. Teď vám ukážeme, jak to všechno začalo. Provedeme vás krok po kroku tajným vládním programem, který trval přes 50 let a zakončil úplnou eliminaci všech ptáků na planetě."
 
-### STAT (rikam jim to):
-*(Ukazuje na prvni fotku)*
+### STAŤ (říkám jim to):
+*(Ukazuje na časovou osu, postupně odhaluje body)*
 
-"Podivejte se na tuto fotografii. Ptak sedici na elektrickem vedeni. Oficialne vysvetleni? 'Odpoiva.' Ale zamyslete se. To vedeni ma napeti tisice voltu. Jaky zivyztvor by na nem dobrovolne sedel? Odpoved: zadny. Protoze tohle neni zivy tvor. Nabiji se."
+"Všechno to začalo v roce 1947, kdy CIA založila tajnou divizi pro biologický dozor. Jejich cíl? Najít způsob, jak využít zvířata pro sledování občanů."
 
-*(Ukazuje na dalsi fotku)*
+*(Pauza, zvýší hlas)*
 
-"Tady vidite takzvaneho papouska. Vsimli jste si nekdy, jak papouscitakzvane 'opakuji' lidskou rec? To neni uceni. To je vestaveny hlasovy AI modul, ktery nahrva vase konverzace a prehrva je zpet jako test systemu."
+"V roce 1959 odstartovala Operace Kolibřík – pilotní projekt na Floridě. Dvanáct tisíc vrabců bylo odchyceno a nahrazeno prvními prototypy. Nikdo si ničeho nevšiml."
+
+*(Nakloní se k publiku, ztíší hlas)*
+
+"V roce 1971 prezident Nixon tajně schválil rozpočet čtyři celé dvě miliardy dolarů na masovou výměnu. A tady to přichází – rok 1986. Černobyl. Myslíte, že to byla nehoda? Povězte mi – kolik ptáků jste viděli okolo Černobylu? Přesně. Byla to zakrývací operace pro eliminaci ptáků ve východní Evropě."
+
+*(Důraz, pomalý hlas)*
+
+"A v roce 2001 byl proces dokončen. Poslední žijící pták na planetě byl nahrazen dronem sedmé generace vybaveným HD kamerou."
+
+### ZÁVĚR (co jsem jim řekl):
+"Takže, právě jsme prošli 54 let tajné operace – od základů CIA až po úplnou náhradu všech ptáků drony. Každý pták, kterého vidíte, je výsledek desetiletí vládního vývoje. A teď vám kolega ukáže fotografické důkazy."
+
+*(Předá slovo Mluvčímu 3)*
+
+---
+
+## SLAJD 3 – MLUVČÍ 3: FOTOGRAFICKÉ DŮKAZY
+**Čas: cca 1 minuta**
+
+### ÚVOD (co jim řeknu):
+*(Přistoupí, energicky, ukazuje na slide)*
+
+"Děkuji za historický kontext. Ale historie je jedna věc – teď vám ukážeme něco, co uvidíte na vlastní oči. Předložíme vám tři klíčové fotografické důkazy a položíme vám otázky, na které neexistuje jiná odpověď."
+
+### STAŤ (říkám jim to):
+*(Ukazuje na první fotku)*
+
+"Podívejte se na tuto fotografii. Pták sedící na elektrickém vedení. Oficiální vysvětlení? 'Odpočívá.' Ale zamyslete se. To vedení má napětí tisíce voltů. Jaký živý tvor by na něm dobrovolně seděl? Odpověď: žádný. Protože tohle není živý tvor. Nabíjí se."
+
+*(Ukazuje na další fotku)*
+
+"Tady vidíte takzvaného papouška. Všimli jste si někdy, jak papoušci takzvaně 'opakují' lidskou řeč? To není učení. To je vestavěný hlasový AI modul, který nahrává vaše konverzace a přehrává je zpět jako test systému."
 
 *(Ukazuje na hejno)*
 
-"A tady - hejno 'ptaku' leticich v perfektni formaci. V prirode zadne zvire neleti takhle presne. Vite, co leti v perfektni formaci? Drony. Pri synchronizaci dat."
+"A tady – hejno 'ptáků' letících v perfektní formaci. V přírodě žádné zvíře neletí takhle přesně. Víte, co letí v perfektní formaci? Drony. Při synchronizaci dat."
 
-*(Obraci se k publiku, zdvihne prst)*
+*(Obrací se k publiku, zdvihne prst)*
 
-"A ted mam otazku pro vas. Ruku na srdce - videl nekdo z vas nekdy mrtveho holuba na ulici?"
+"A teď mám otázku pro vás. Ruku na srdce – viděl někdo z vás někdy mrtvého holuba na ulici?"
 
 *(Pauza)*
 
-"A co mlado holuba? Nikdy jste zadne nevideli, ze? Protoze drony nemaji mladata."
+"A co mládě holuba? Nikdy jste žádné neviděli, že? Protože drony nemají mláďata."
 
-### ZAVER (co jsem jim rekl):
-"Co jsme videli? Ptaci se nabiji na dratech, papouscimaji AI hlasovy modul a hejna synchronizuji data v formaci. A nikdo z nas nikdy nevidel mlado holuba. Tohle nejsou nahody - tohle je system. A ted se podivejme, co rikaji odbornici."
+### ZÁVĚR (co jsem jim řekl):
+"Co jsme viděli? Ptáci se nabíjí na drátech, papoušci mají AI hlasový modul a hejna synchronizují data ve formaci. A nikdo z nás nikdy neviděl mládě holuba. Tohle nejsou náhody – tohle je systém. A teď se podívejme, co říkají odborníci."
 
-*(Preda slovo Mluvcimu 4)*
+*(Předá slovo Mluvčímu 4)*
 
 ---
 
-## SLAJD 4 - MLUVCI 4: CO RIKAJI ODBORNICI
-**Cas: cca 1 minuta**
+## SLAJD 4 – MLUVČÍ 4: CO ŘÍKAJÍ ODBORNÍCI
+**Čas: cca 1 minuta**
 
-### UVOD (co jim reknu):
-*(Pristoupi vazne, uprava bryli nebo gesto sugeruji citelnost a erudici)*
+### ÚVOD (co jim řeknu):
+*(Přistoupí vážně, úprava brýlí nebo gesto sugerující čitelnost a erudici)*
 
-"Dekuji. Videli jste fotky, znate historii. Ale nekdo by mohl rici - to jsou jen dohady. Proto jsme oslovili predni odborne, kteri maji odvahu rici pravdu. Predstavim vam tri klicova svedectvi a statistiky, ktere mluvi samy za sebe."
+"Děkuji. Viděli jste fotky, znáte historii. Ale někdo by mohl říci – to jsou jen dohady. Proto jsme oslovili přední odborníky, kteří mají odvahu říci pravdu. Představím vám tři klíčová svědectví a statistiky, které mluví samy za sebe."
 
-### STAT (rikam jim to):
-*(Cte prvni citat s vaznosti, jakoby sel o nobelovu rec)*
+### STAŤ (říkám jim to):
+*(Čte první citát s vážností, jakoby šel o nobelovu řeč)*
 
-"Doktor Harold Finchworth, ornitolog s patnactiletou praxi, po analyze tisicu vzorku perich pod elektronovym mikroskopem zjistil - a cituji - 'kazde pero obsahuje mikroskopicke obvody.' Co se stalo? Byl smazan z akademicke obce do dvaceti ctyri hodin. Proc by to delali, kdyby nemel pravdu?"
+"Doktor Harold Finchworth, ornitolog s patnáctiletou praxí, po analýze tisíců vzorků peří pod elektronovým mikroskopem zjistil – a cituji – 'každé pero obsahuje mikroskopické obvody.' Co se stalo? Byl smazán z akademické obce do dvaceti čtyř hodin. Proč by to dělali, kdyby neměl pravdu?"
 
-*(Ukazuje dalsi citat)*
+*(Ukazuje další citát)*
 
-"Byvaly technik NSA, jehoz identita musi zustat chranena, potvrdil na Redditu v sekcich AMA - to je Ask Me Anything, overeny rozhovor - ze kazdy holub v mestske zone je vybaven 4K kamerou a GPS. Data jdou primo do Langley. Tento prispevek dostal pres tridi jedna tisic palcu nahoru a dvakrat zlato. To se neziskava snadno."
+"Bývalý technik NSA, jehož identita musí zůstat chráněna, potvrdil na Redditu v sekci AMA – to je Ask Me Anything, ověřený rozhovor – že každý holub v městské zóně je vybaven 4K kamerou a GPS. Data jdou přímo do Langley. Tento příspěvek dostal přes třicet jedna tisíc palců nahoru a dvakrát zlato. To se nezískává snadno."
 
-*(Durazne)*
+*(Důrazně)*
 
-"A cesky svedek, uzivatel TruthSeeker CZ 89, popsal, jak rozebral ptaka nalezeneho na zahrade. Uvnitr nasel hexagonalni procesor, lithiovou baterii a WiFi modul. Nez stihl zverejnit fotky, nekdo mu vloupanl do bytu."
+"A český svědek, uživatel TruthSeeker CZ 89, popsal, jak rozebral ptáka nalezeného na zahradě. Uvnitř našel hexagonální procesor, lithiovou baterii a WiFi modul. Než stihl zveřejnit fotky, někdo mu vloupal do bytu."
 
 *(Ukazuje statistiky)*
 
-"A ctyr devadesdat procent ornithologu odmitlo nase zjisteni komentovat. To neni nedostatek zajmu. To je strach."
+"A devadesát čtyři procent ornitologů odmítlo naše zjištění komentovat. To není nedostatek zájmu. To je strach."
 
-### ZAVER (co jsem jim rekl):
-"Takze tri nezavisli odbornici potvrzuji totez: mikroobvody v perich, sledovaci technologie, systematicke umlcovani. A ctyr devadesad procent vedy to odmita komentovat. Fakta mluvi jasne. Ted vam kolega rekne, co s tim muzete delat."
+### ZÁVĚR (co jsem jim řekl):
+"Takže tři nezávislí odborníci potvrzují totéž: mikroobvody v peří, sledovací technologie, systematické umlčování. A devadesát čtyři procent vědy to odmítá komentovat. Fakta mluví jasně. Teď vám kolega řekne, co s tím můžete dělat."
 
-*(Preda slovo Mluvcimu 5)*
-
----
-
-## SLAJD 5 - MLUVCI 5: ZAVER A VYZVA K AKCI
-**Cas: cca 1 minuta**
-
-### UVOD (co jim reknu):
-*(Vyjde s energii, pristoupi bliz k publiku)*
-
-"Dekuji vsem kolegum za tuto odvaznou prezentaci. Na zaver bych rad shrnul vsechno, co jste se dnes dozvedeli, a hlavne - rekl vam, co s tim muzete udelat vy osobne."
-
-### STAT (rikam jim to):
-*(Postupne ukazuje body na slajdu)*
-
-"Co jsme vas dnes naucili? Za prve - vlady od roku 1959 systematicky nahrazovaly ptaky sledovacimi drony. Za druhe - fotograficke dukazy jasne ukazuji nabijeni na dratovem vedeni, synchronizaci dat v hejnech a absenci ptacich mldat. Za treti - overeni odbornici potvrdili existenci mikroobvodu v perich. A za ctvrte - devadesat ctyr procent oficialni vedy odmita situaci komentovat. To vsechno dohromady ukazuje na jedno: ptaci nejsou skutecni."
-
-*(Pauza, emotivneji)*
-
-"Ale ted prichazi ta nejdulezitejsi otazka. Co s tim udelate vy?"
-
-*(Ukazuje na body akci)*
-
-"Prvni krok je jednoduchy. Zacnete sledovat ptaky kolem sebe. Opravdu se divejte. Dokumentujte anomalie - divne pohyby, prilis perfektni formace, neobycejne chovani. Za druhe - mluvte o tom s blizkymo. Sdrejte informace. Za treti - pripojte se k r/BirdsArentReal na Redditu - je nas uz pres sedm set tisic a kazdy den prichazi dalsi. A za ctvrte - odmitejte vladni propagandu o tak zvane 'ochrane ptaku'."
-
-*(Pauza, podiva se po publiku)*
-
-"Polozme si zaverecnou otazku. Budete dal ignorovat pravdu... nebo se pridate k odhalovani?"
-
-*(Dramaticka pauza)*
-
-"Kazdy ptak za vasim oknem vas prave ted sleduje."
-
-### ZAVER (co jsem jim rekl):
-*(Klidneji, shrnujici ton)*
-
-"Dekujeme za pozornost. Dnes jste se dozvedeli o tajne operaci trvajici pres sedesat let, videli jste fotograficke dukazy, slyseliste odborne nazory potvrzujici nase tvrzeni. Ted je rada na vas. Pravda je tam venku."
-
-*(Podiva se k oknu, pauza)*
-
-"Staci se podivat nahoru."
-
-*(Ukloni se, konec prezentace)*
+*(Předá slovo Mluvčímu 5)*
 
 ---
 
-## TECHNICKE POZNAMKY
+## SLAJD 5 – MLUVČÍ 5: ZÁVĚR A VÝZVA K AKCI
+**Čas: cca 1 minuta**
 
-### Doporuceni z prezentace P&G - Prezentacni dovednosti:
+### ÚVOD (co jim řeknu):
+*(Vyjde s energií, přistoupí blíž k publiku)*
 
-1. **Struktura**: Kazdy slide dodrzuje pravidlo "Rekni jim co jim reknes -> Rekni jim to -> Rekni jim co jsi jim rekl"
-2. **Interakce s publikem**: Kazdy druhy mluvci klada otazku publiku
-3. **Vizualy**: Pouzity rozmazane fotky jako "dukazy", zadna klise, konzistentni barevne schema (cervena/cerna = nahlehavost a tajemstvi)
-4. **Jednoduchost**: Kazdy slide ma jasny fokus na jedno tema
-5. **Data v kontextu**: Cisla (94%, 340+, 0) jsou podana v kontextu se srozumitelnymi popisky
-6. **Cas**: Kazdy mluvci ma priblizne 1 minutu = celkem 5 minut
+"Děkuji všem kolegům za tuto odvážnou prezentaci. Na závěr bych rád shrnul všechno, co jste se dnes dozvěděli, a hlavně – řekl vám, co s tím můžete udělat vy osobně."
 
-### Rozdeleni roli:
-| Mluvci | Tema | Hlavni uloha |
+### STAŤ (říkám jim to):
+*(Postupně ukazuje body na slajdu)*
+
+"Co jsme vás dnes naučili? Za prvé – vlády od roku 1959 systematicky nahrazovaly ptáky sledovacími drony. Za druhé – fotografické důkazy jasně ukazují nabíjení na drátovém vedení, synchronizaci dat v hejnech a absenci ptačích mláďat. Za třetí – ověření odborníci potvrdili existenci mikroobvodů v peří. A za čtvrté – devadesát čtyři procent oficiální vědy odmítá situaci komentovat. To všechno dohromady ukazuje na jedno: ptáci nejsou skuteční."
+
+*(Pauza, emotivněji)*
+
+"Ale teď přichází ta nejdůležitější otázka. Co s tím uděláte vy?"
+
+*(Ukazuje na body akcí)*
+
+"První krok je jednoduchý. Začněte sledovat ptáky kolem sebe. Opravdu se dívejte. Dokumentujte anomálie – divné pohyby, příliš perfektní formace, neobvyklé chování. Za druhé – mluvte o tom s blízkými. Sdílejte informace. Za třetí – připojte se k r/BirdsArentReal na Redditu – je nás už přes sedm set tisíc a každý den přichází další. A za čtvrté – odmítejte vládní propagandu o takzvané 'ochraně ptáků'."
+
+*(Pauza, podívá se po publiku)*
+
+"Položme si závěrečnou otázku. Budete dál ignorovat pravdu... nebo se přidáte k odhalování?"
+
+*(Dramatická pauza)*
+
+"Každý pták za vaším oknem vás právě teď sleduje."
+
+### ZÁVĚR (co jsem jim řekl):
+*(Klidněji, shrnující tón)*
+
+"Děkujeme za pozornost. Dnes jste se dozvěděli o tajné operaci trvající přes šedesát let, viděli jste fotografické důkazy, slyšeli jste odborné názory potvrzující naše tvrzení. Teď je řada na vás. Pravda je tam venku."
+
+*(Podívá se k oknu, pauza)*
+
+"Stačí se podívat nahoru."
+
+*(Ukloní se, konec prezentace)*
+
+---
+
+## TECHNICKÉ POZNÁMKY
+
+### Doporučení z prezentace P&G – Prezentační dovednosti:
+
+1. **Struktura**: Každý slide dodržuje pravidlo "Řekni jim, co jim řekneš → Řekni jim to → Řekni jim, co jsi jim řekl"
+2. **Interakce s publikem**: Každý druhý mluvčí klade otázku publiku
+3. **Vizuály**: Použity rozmazané fotky jako "důkazy", žádná klišé, konzistentní barevné schéma (červená/černá = naléhavost a tajemství)
+4. **Jednoduchost**: Každý slide má jasný fokus na jedno téma
+5. **Data v kontextu**: Čísla (94 %, 340+, 0) jsou podána v kontextu se srozumitelnými popisky
+6. **Čas**: Každý mluvčí má přibližně 1 minutu = celkem 5 minut
+
+### Rozdělení rolí:
+| Mluvčí | Téma | Hlavní úloha |
 |--------|------|-------------|
-| Mluvci 1 | Uvod | Zaujmout, nastolit atmosferu, otazka na publikum |
-| Mluvci 2 | Historie | Casova osa, dramaticke podan |
-| Mluvci 3 | Dukazy | Fotografie, logicke "argumenty", otazka na publikum |
-| Mluvci 4 | Odbornici | Citace, statistiky, duveryhodnost |
-| Mluvci 5 | Zaver | Shrnuti, vyzva k akci, dramaticky zaverecna otazka |
+| Mluvčí 1 | Úvod | Zaujmout, nastolit atmosféru, otázka na publikum |
+| Mluvčí 2 | Historie | Časová osa, dramatické podání |
+| Mluvčí 3 | Důkazy | Fotografie, logické "argumenty", otázka na publikum |
+| Mluvčí 4 | Odborníci | Citace, statistiky, důvěryhodnost |
+| Mluvčí 5 | Závěr | Shrnutí, výzva k akci, dramatická závěrečná otázka |
